@@ -1,1 +1,1 @@
-# Maths_Quiz
+Maths Quiz is an engaging web app designed to test and improve your mathematical skills. Offering a range of difficulty levels, it features a variety of questions on topics like algebra, geometry, arithmetic, and more. The interactive interface allows users to track progress, view correct answers, and receive instant feedback. Perfect for students, educators, or anyone looking to sharpen their math abilities, Maths Quiz makes learning fun and challenging while helping users strengthen their problem-solving skills.
